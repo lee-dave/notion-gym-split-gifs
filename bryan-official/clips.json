@@ -1,0 +1,36 @@
+{
+  "source": {
+    "url": "https://www.youtube.com/watch?v=sYyVi-H-ozI",
+    "title": "Bryan Johnson - My Complete Anti-Aging Workout"
+  },
+  "clips": [
+    {
+      "slug": "hamstring-stretch",
+      "title": "Hamstring stretch",
+      "start": "00:06:03",
+      "end": "00:06:10",
+      "caption": "Mobility reference for hamstrings on recovery or Zone 2 days."
+    },
+    {
+      "slug": "hip-flexor-stretch",
+      "title": "Hip flexor stretch",
+      "start": "00:10:45",
+      "end": "00:10:52",
+      "caption": "Mobility reference for hips after Zone 2 or strength sessions."
+    },
+    {
+      "slug": "poliquin-step-up",
+      "title": "Poliquin step-up",
+      "start": "00:13:55",
+      "end": "00:14:03",
+      "caption": "Closest verified Bryan visual for step-up work."
+    },
+    {
+      "slug": "split-squat",
+      "title": "Split squat",
+      "start": "00:14:40",
+      "end": "00:14:47",
+      "caption": "Verified Bryan lunge-adjacent strength pattern."
+    }
+  ]
+}
