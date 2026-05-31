@@ -1,0 +1,265 @@
+{
+  "source": {
+    "file": "video-gif-projects/bryan-official/out-hq/source-android.mp4",
+    "url": "https://www.youtube.com/watch?v=sYyVi-H-ozI",
+    "title": "Bryan Johnson - My Complete Anti-Aging Workout"
+  },
+  "settings": {
+    "fps": 12,
+    "width": 430
+  },
+  "clips": [
+    {
+      "slug": "backwards-sled",
+      "title": "Backwards sled",
+      "start": "00:02:10",
+      "end": "00:02:17",
+      "caption": "Visually checked movement window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/backwards-sled.gif",
+      "filename": "backwards-sled.gif"
+    },
+    {
+      "slug": "levator-scapula",
+      "title": "Levator scapula",
+      "start": "00:02:37",
+      "end": "00:02:45",
+      "caption": "Visually checked movement window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/levator-scapula.gif",
+      "filename": "levator-scapula.gif"
+    },
+    {
+      "slug": "suboccipital",
+      "title": "Suboccipital",
+      "start": "00:02:50",
+      "end": "00:03:04",
+      "caption": "Visually checked movement window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/suboccipital.gif",
+      "filename": "suboccipital.gif"
+    },
+    {
+      "slug": "tricep-extensions",
+      "title": "Tricep extensions",
+      "start": "00:03:25",
+      "end": "00:03:36",
+      "caption": "Visually checked movement window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/tricep-extensions.gif",
+      "filename": "tricep-extensions.gif"
+    },
+    {
+      "slug": "face-pulls",
+      "title": "Face pulls",
+      "start": "00:03:44",
+      "end": "00:03:55",
+      "caption": "Visually checked movement window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/face-pulls.gif",
+      "filename": "face-pulls.gif"
+    },
+    {
+      "slug": "butterfly-pulls",
+      "title": "Butterfly pulls",
+      "start": "00:04:06.5",
+      "end": "00:04:13.5",
+      "caption": "Visually checked movement window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/butterfly-pulls.gif",
+      "filename": "butterfly-pulls.gif"
+    },
+    {
+      "slug": "band-pull-apart",
+      "title": "Band pull apart",
+      "start": "00:04:54",
+      "end": "00:05:05",
+      "caption": "Visually checked movement window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/band-pull-apart.gif",
+      "filename": "band-pull-apart.gif"
+    },
+    {
+      "slug": "external-rotation",
+      "title": "External rotation",
+      "start": "00:05:08.5",
+      "end": "00:05:20",
+      "caption": "Visually checked movement window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/external-rotation.gif",
+      "filename": "external-rotation.gif"
+    },
+    {
+      "slug": "hamstring-stretch",
+      "title": "Hamstring stretch",
+      "start": "00:06:08.5",
+      "end": "00:06:18.5",
+      "caption": "Tightened movement-only window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/hamstring-stretch.gif",
+      "filename": "hamstring-stretch.gif"
+    },
+    {
+      "slug": "back-extensions",
+      "title": "Back extensions",
+      "start": "00:07:21.5",
+      "end": "00:07:31",
+      "caption": "Tightened movement-only window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/back-extensions.gif",
+      "filename": "back-extensions.gif"
+    },
+    {
+      "slug": "obliques",
+      "title": "Obliques",
+      "start": "00:07:45.5",
+      "end": "00:07:56",
+      "caption": "Tightened movement-only window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/obliques.gif",
+      "filename": "obliques.gif"
+    },
+    {
+      "slug": "couch-stretch",
+      "title": "Couch stretch",
+      "start": "00:08:39",
+      "end": "00:08:51",
+      "caption": "Tightened movement-only window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/couch-stretch.gif",
+      "filename": "couch-stretch.gif"
+    },
+    {
+      "slug": "kneeling-shin",
+      "title": "Kneeling shin",
+      "start": "00:10:11.5",
+      "end": "00:10:22.5",
+      "caption": "Tightened movement-only window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/kneeling-shin.gif",
+      "filename": "kneeling-shin.gif"
+    },
+    {
+      "slug": "hip-flexor-stretch",
+      "title": "Hip flexor stretch",
+      "start": "00:10:51",
+      "end": "00:11:03",
+      "caption": "Visually checked movement window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/hip-flexor-stretch.gif",
+      "filename": "hip-flexor-stretch.gif"
+    },
+    {
+      "slug": "leg-raises",
+      "title": "Leg raises",
+      "start": "00:11:43",
+      "end": "00:11:54",
+      "caption": "Visually checked movement window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/leg-raises.gif",
+      "filename": "leg-raises.gif"
+    },
+    {
+      "slug": "oblique-touches",
+      "title": "Oblique touches",
+      "start": "00:12:00",
+      "end": "00:12:12",
+      "caption": "Visually checked movement window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/oblique-touches.gif",
+      "filename": "oblique-touches.gif"
+    },
+    {
+      "slug": "reverse-pushups",
+      "title": "Reverse pushups",
+      "start": "00:12:23.5",
+      "end": "00:12:34",
+      "caption": "Tightened movement-only window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/reverse-pushups.gif",
+      "filename": "reverse-pushups.gif"
+    },
+    {
+      "slug": "seated-calf-raises",
+      "title": "Seated calf raises",
+      "start": "00:13:48",
+      "end": "00:13:58",
+      "caption": "Visually checked movement window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/seated-calf-raises.gif",
+      "filename": "seated-calf-raises.gif"
+    },
+    {
+      "slug": "poliquin-step-up",
+      "title": "Poliquin step up",
+      "start": "00:14:04.5",
+      "end": "00:14:15",
+      "caption": "Visually checked movement window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/poliquin-step-up.gif",
+      "filename": "poliquin-step-up.gif"
+    },
+    {
+      "slug": "slant-board-squats",
+      "title": "Slant board squats",
+      "start": "00:14:34.5",
+      "end": "00:14:42",
+      "caption": "Tightened movement-only window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/slant-board-squats.gif",
+      "filename": "slant-board-squats.gif"
+    },
+    {
+      "slug": "split-squats",
+      "title": "Split squats",
+      "start": "00:14:46.5",
+      "end": "00:14:58",
+      "caption": "Visually checked movement window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/split-squats.gif",
+      "filename": "split-squats.gif"
+    },
+    {
+      "slug": "nordics",
+      "title": "Nordics",
+      "start": "00:15:29.5",
+      "end": "00:15:40.5",
+      "caption": "Tightened movement-only window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/nordics.gif",
+      "filename": "nordics.gif"
+    },
+    {
+      "slug": "reverse-nordics",
+      "title": "Reverse Nordics",
+      "start": "00:15:50.5",
+      "end": "00:15:59.5",
+      "caption": "Tightened movement-only window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/reverse-nordics.gif",
+      "filename": "reverse-nordics.gif"
+    },
+    {
+      "slug": "tibialis-raises",
+      "title": "Tibialis raises",
+      "start": "00:16:05.5",
+      "end": "00:16:13.5",
+      "caption": "Tightened movement-only window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/tibialis-raises.gif",
+      "filename": "tibialis-raises.gif"
+    },
+    {
+      "slug": "isotib-ankle-rotations",
+      "title": "Isotib ankle rotations",
+      "start": "00:16:24",
+      "end": "00:16:34",
+      "caption": "Tightened movement-only window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/isotib-ankle-rotations.gif",
+      "filename": "isotib-ankle-rotations.gif"
+    },
+    {
+      "slug": "chin-ups",
+      "title": "Chin ups",
+      "start": "00:17:13.5",
+      "end": "00:17:21",
+      "caption": "Tightened movement-only window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/chin-ups.gif",
+      "filename": "chin-ups.gif"
+    },
+    {
+      "slug": "bicep-curls",
+      "title": "Bicep curls",
+      "start": "00:17:36.5",
+      "end": "00:17:43.5",
+      "caption": "Tightened movement-only window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/bicep-curls.gif",
+      "filename": "bicep-curls.gif"
+    },
+    {
+      "slug": "ten-minute-hiit",
+      "title": "10-minute HIIT",
+      "start": "00:18:42",
+      "end": "00:18:50",
+      "caption": "Tightened bike-work window.",
+      "file": "video-gif-projects/bryan-official/out-all-430/gifs/ten-minute-hiit.gif",
+      "filename": "ten-minute-hiit.gif"
+    }
+  ]
+}
