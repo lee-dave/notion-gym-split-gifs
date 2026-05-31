@@ -1,0 +1,43 @@
+# Bryan Reference GIFs
+
+430px movement-reference GIFs for Notion.
+
+- backwards-treadmill: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/backwards-treadmill.gif
+- balance-drill: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/balance-drill.gif
+- bird-dog: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/bird-dog.gif
+- burpees: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/burpees.gif
+- cat-cow: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/cat-cow.gif
+- chest-supported-dumbbell-row: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/chest-supported-dumbbell-row.gif
+- dead-bug: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/dead-bug.gif
+- extension-to-slam: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/extension-to-slam.gif
+- farmers-walk: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/farmers-walk.gif
+- foot-on-bench-one-arm-overhead-press: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/foot-on-bench-one-arm-overhead-press.gif
+- full-knee-bend: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/full-knee-bend.gif
+- hand-leg-opposite-bent-row: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/hand-leg-opposite-bent-row.gif
+- high-knees: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/high-knees.gif
+- hip-cars: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/hip-cars.gif
+- hollow-dumbbell-bench: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/hollow-dumbbell-bench.gif
+- inchworm: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/inchworm.gif
+- kettlebell-swing: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/kettlebell-swing.gif
+- lateral-lunge: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/lateral-lunge.gif
+- mountain-climbers: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/mountain-climbers.gif
+- one-leg-glute-bridge: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/one-leg-glute-bridge.gif
+- pallof-press: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/pallof-press.gif
+- plank-shoulder-tap: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/plank-shoulder-tap.gif
+- plank: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/plank.gif
+- push-up: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/push-up.gif
+- reverse-lunge: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/reverse-lunge.gif
+- reverse-pull-up: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/reverse-pull-up.gif
+- side-plank: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/side-plank.gif
+- single-arm-dumbbell-row: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/single-arm-dumbbell-row.gif
+- single-leg-rdl: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/single-leg-rdl.gif
+- single-leg-toe-touch: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/single-leg-toe-touch.gif
+- slant-board-goblet-squat: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/slant-board-goblet-squat.gif
+- sled-burst: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/sled-burst.gif
+- spiderman-pushup: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/spiderman-pushup.gif
+- thread-the-needle: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/thread-the-needle.gif
+- tree-pose: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/tree-pose.gif
+- turkish-get-up: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/turkish-get-up.gif
+- wall-slides: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/wall-slides.gif
+- woodchopper: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/woodchopper.gif
+- worlds-greatest-stretch: https://raw.githubusercontent.com/lee-dave/notion-gym-split-gifs/main/bryan-reference/gifs/worlds-greatest-stretch.gif
